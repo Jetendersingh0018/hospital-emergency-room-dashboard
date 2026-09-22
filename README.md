@@ -29,20 +29,20 @@ The dashboard provides insights into patient volume, waiting time, admission pat
 
 ## 💡 Business Insights
 
-- High ER demand requires effective staff and resource allocation.
-- Approximately 50% of patients were admitted, indicating significant hospital capacity requirements.
+- High ER patient volume indicates the need for effective staff and resource allocation.
+- Approximately 50% of patients were admitted, indicating significant demand for hospital capacity.
 - Average waiting time of around 35 minutes highlights an opportunity to improve patient flow.
 - The 60+ age group represents the largest patient segment.
 - General Practice has the highest referral demand.
-- Patient satisfaction indicates scope for improving the overall emergency-room experience.
+- Patient satisfaction of around 5/10 indicates scope for improving the overall patient experience.
 
 ## 🎯 Recommendations
 
 - Optimize staffing during peak patient-volume periods.
-- Improve triage and patient-flow processes.
+- Improve triage and patient-flow processes to reduce waiting time.
 - Align General Practice capacity with referral demand.
-- Strengthen services for elderly patients.
-- Plan beds and resources based on admission trends.
+- Strengthen services for the 60+ patient segment.
+- Plan beds and resources according to admission trends.
 - Focus on reducing waiting-related dissatisfaction.
 
 ## 🛠️ Tools Used
@@ -54,13 +54,13 @@ The dashboard provides insights into patient volume, waiting time, admission pat
 - Data Analysis
 - Dashboard Design
 
-## 📂 Files
+## 📂 Project Files
 
 | File | Description |
 |---|---|
-| Hospital_Emergency_Room_Dashboard.xlsx | Interactive Excel dashboard |
-| Hospital_Emergency_Room_Data.csv | Dataset used for analysis |
+| `Hospital_Emergency_Room_Dashboard.xlsx` | Interactive Excel dashboard |
+| `Hospital_Emergency_Room_Data.csv` | Dataset used for analysis |
 
-## 👨‍💻 Author
+## 📸 Dashboard Preview
 
-Jetender Singh
+![Hospital Emergency Room Dashboard](dashboard_preview.png)
