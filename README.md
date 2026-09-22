@@ -118,7 +118,7 @@ The dashboard provides analysis across the following areas:
 
 ## 📊 Dashboard Preview
 
-![Hospital Emergency Room Dashboard](dashboard_preview.png)
+![hospital_emergency_room_dashboard_preview)
 
 ---
 
